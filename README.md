@@ -1,7 +1,7 @@
 # TwitterAnalysis
 
 This project was done for my final project in Big Data Platforms at The University of Chicago Master's of Analytics program. 
-First, I subset 2TB+ of twitter user data by filtering it using Google Cloud Platforms to pull out data only pertaining to four schools of my choosing. 
+<br/>First, I subset 2TB+ of twitter user data by filtering it using Google Cloud Platforms to pull out data only pertaining to four schools of my choosing. 
 After subsetting the data I utilized Jupyter Notebooks on my local laptop to analyze the data. 
 
 I utilized various packages in Python such as:<br/>
